@@ -1,1 +1,1 @@
-Codes writtern during graph algorithms course.
+Codes written during graph algorithms course.
